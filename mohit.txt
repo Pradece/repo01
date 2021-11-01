@@ -1,3 +1,4 @@
 commit 1 master before branch
 commit 2 master before branch
 commit 3 master after branch
+commit 4 master after branch
